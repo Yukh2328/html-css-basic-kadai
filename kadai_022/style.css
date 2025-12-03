@@ -51,8 +51,7 @@ h2 {
 }
 
 .contents > img {
-    width: 60%;
-    height: 60%;
+    width: 70%;
 }
 
 .contents {
@@ -90,6 +89,7 @@ a:hover {
         font-size: 30px;
     }
     #parent {
-        display: block;
+        flex-direction: column;
     }
 }
+/*  */
